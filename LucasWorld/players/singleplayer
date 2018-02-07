@@ -1,0 +1,64 @@
+breath = 11
+hp = 20
+name = singleplayer
+pitch = 23.88
+position = (1078.25,35,247.73)
+version = 1
+yaw = 264.67
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:wood
+Item default:gold_lump
+Empty
+Item default:torch
+Item default:mese_crystal
+Item default:ladder 11
+Item default:sand
+Item doors:trapdoor
+Item default:acacia_wood 3
+Item default:clay_lump
+Item default:shovel_stone
+Item stairs:stair_sandstone
+Item default:meselamp
+Item flowers:tulip
+Item default:desert_sand
+Item default:gold_ingot
+Item default:bronzeblock
+Item default:rail
+Item default:chest 2
+Item default:dirt
+Item default:sword_steel
+Item default:sand
+Item default:papyrus
+Item stairs:slab_brick
+Item default:stonebrick 4
+Item bones:bones
+Item default:snow
+Item default:coal_lump
+Item default:fence_wood
+Item default:cobble
+Item stairs:stair_brick
+Item default:clay
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Item default:stick
+Item farming:cotton
+Item default:stick
+Empty
+Item farming:cotton
+Empty
+Item default:stick
+Item farming:cotton
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

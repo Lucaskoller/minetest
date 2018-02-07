@@ -1,0 +1,3 @@
+game_time = 32050
+time_of_day = 3607
+EnvArgsEnd
